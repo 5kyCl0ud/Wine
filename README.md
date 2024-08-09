@@ -24,7 +24,7 @@ The dataset contains measurements of 13 chemical properties for 6,497 wine sampl
 - **pH**
 - **Sulphates**
 - **Alcohol**
-- **Quality rating** (3-9)
+- **Quality rating** (1-10)
 - **Wine type** (red or white)
 
 ## Analysis
